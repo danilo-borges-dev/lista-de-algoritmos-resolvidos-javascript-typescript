@@ -7,4 +7,8 @@
  
  Link do livro na Amazon: https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Programa%C3%A7%C3%A3o-Algoritmos-Resolvidos/dp/8535210199
  
+ ---
+ 
+  Criei este repositório com a finalidade de alocar diversos algoritmos resolvidos em **Javascript mais Typescript** iniciando do mais básico ao mais "complexo".
+ 
  
