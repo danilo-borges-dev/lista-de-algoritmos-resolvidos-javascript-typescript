@@ -1,4 +1,4 @@
-# Lista de Algoritmos Resolvidos em Javascript
+# Lista de Algoritmos Resolvidos em Javascript + Typescript
 
  Centenas de Algoritmos Javascript Resolvidos (Nível Básico)
  ---
