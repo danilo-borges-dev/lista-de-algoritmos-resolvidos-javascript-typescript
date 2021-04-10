@@ -18,10 +18,10 @@ Você tem todas as funcionalidades de JS com mais recursos, sendo um JavaScript 
 
 Alguns dos recursos de TypeScript:
 Fortemente Tipada;
-Genéricos;
-Interfaces;
-Namespaces;
-Decorators;
+1. Genéricos;
+2. Interfaces;
+3. Namespaces;
+4. Decorators;
 
 TypeScript é uma linguagem nova? Na verdade não, TypeScript engloba JavaScript com mais funcionalidaes e recursos, oferecendo a você mais possibilidades de deixar o seu projeto muito mais rico =D 
  
