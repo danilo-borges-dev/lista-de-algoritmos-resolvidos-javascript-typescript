@@ -22,6 +22,7 @@ Fortemente Tipada;
 2. Interfaces;
 3. Namespaces;
 4. Decorators;
+5. ...
 
 TypeScript é uma linguagem nova? Na verdade não, TypeScript engloba JavaScript com mais funcionalidaes e recursos, oferecendo a você mais possibilidades de deixar o seu projeto muito mais rico =D 
  
