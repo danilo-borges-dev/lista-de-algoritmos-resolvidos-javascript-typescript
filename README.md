@@ -9,6 +9,6 @@
  
  ---
  
-  Criei este repositório com a finalidade de alocar diversos algoritmos resolvidos em **Javascript mais Typescript** iniciando do mais básico ao mais "complexo".
+  Criei este repositório com a finalidade de alocar diversos algoritmos resolvidos em **Javascript mais Typescript**.
  
  
